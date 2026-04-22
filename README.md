@@ -1,1 +1,1 @@
-# medical_project
+A modern medical web application designed to provide a seamless and responsive healthcare experience. Built with a focus on clean UI, usability, and responsive frontend development across different screen sizes.
